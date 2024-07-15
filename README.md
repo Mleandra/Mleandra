@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mleandra
 - 👀 I’m interested in Python,Machine Learning and Data
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Python project 
+- 🌱 I’m currently learning NestJs and react
+- 💞️ I’m looking to collaborate on Python project  
 - 📫 How to reach me leandramakamte@gmail.com
 
 <!---
